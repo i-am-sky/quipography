@@ -1,0 +1,44 @@
+.custom-body {
+  background: linear-gradient(45deg, #c50ac5, #f425a2, #ffc118) no-repeat;
+  width: 100%;
+}
+
+.custom-button{
+  border-radius: 25px !important;
+}
+
+#card{
+  box-shadow: 3px 4px 5px #539ac3 !important;
+}
+
+.custom-icons{
+  border-radius: 10px!important;
+}
+
+input, textarea{
+  border-radius: 25px !important;
+  background-color: #dde !important;
+
+}
+
+input:focus, textarea:focus{
+  background-color: #fff !important;
+}
+
+.form-layout{
+  margin-top: 20px;
+  width: 400px;
+  height:auto;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #eee;
+}
+
+.form-div{
+  width: 500px;
+  background-color: #555 !important;
+  border-radius: 25px !important;
+  box-shadow: 5px 5px 10px #999;
+}
